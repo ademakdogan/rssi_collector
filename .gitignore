@@ -1,0 +1,24 @@
+
+scripts/runs
+
+# macbook
+.DS_Store
+
+# coverage
+cover
+
+#idea
+.idea
+
+**/.DS_Store
+*.pyc 
+
+
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
